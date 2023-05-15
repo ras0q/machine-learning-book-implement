@@ -64,5 +64,4 @@ def plot_decision_regions(
             c=colors[i],
             marker=markers[i],
             label=c1,
-            edgecolor="black",
         )
